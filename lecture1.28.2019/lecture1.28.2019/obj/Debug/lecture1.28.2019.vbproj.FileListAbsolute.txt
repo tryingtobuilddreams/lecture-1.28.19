@@ -1,0 +1,10 @@
+c:\users\dricha36\documents\visual studio 2013\Projects\lecture1.28.2019\lecture1.28.2019\bin\Debug\lecture1.28.2019.exe.config
+c:\users\dricha36\documents\visual studio 2013\Projects\lecture1.28.2019\lecture1.28.2019\bin\Debug\lecture1.28.2019.exe
+c:\users\dricha36\documents\visual studio 2013\Projects\lecture1.28.2019\lecture1.28.2019\bin\Debug\lecture1.28.2019.pdb
+c:\users\dricha36\documents\visual studio 2013\Projects\lecture1.28.2019\lecture1.28.2019\bin\Debug\lecture1.28.2019.xml
+c:\users\dricha36\documents\visual studio 2013\Projects\lecture1.28.2019\lecture1.28.2019\obj\Debug\lecture1._28._2019.Form1.resources
+c:\users\dricha36\documents\visual studio 2013\Projects\lecture1.28.2019\lecture1.28.2019\obj\Debug\lecture1._28._2019.Resources.resources
+c:\users\dricha36\documents\visual studio 2013\Projects\lecture1.28.2019\lecture1.28.2019\obj\Debug\lecture1.28.2019.vbproj.GenerateResource.Cache
+c:\users\dricha36\documents\visual studio 2013\Projects\lecture1.28.2019\lecture1.28.2019\obj\Debug\lecture1.28.2019.exe
+c:\users\dricha36\documents\visual studio 2013\Projects\lecture1.28.2019\lecture1.28.2019\obj\Debug\lecture1.28.2019.xml
+c:\users\dricha36\documents\visual studio 2013\Projects\lecture1.28.2019\lecture1.28.2019\obj\Debug\lecture1.28.2019.pdb
